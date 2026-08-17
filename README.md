@@ -24,5 +24,5 @@
 ## 说明
 
 - 三个项目均为独立 Unity 工程，可分别打开
-- 每个项目根目录均有 `.gitignore`，仅同步 `Assets / Packages / ProjectSettings` 等核心文件
+- 每个项目根目录均有 `.gitignore`，仅同步 `Assets / Packages / ProjectSettings` 等核心文件，仅代码(无美术资源)
 - 部分项目使用了第三方插件（NGUI、Spine 等），仅供学习演示
