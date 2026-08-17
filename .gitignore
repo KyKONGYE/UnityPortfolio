@@ -1,0 +1,17 @@
+Library/ 
+Temp/ 
+obj/ 
+Logs/ 
+UserSettings/ 
+Build/ 
+Builds/ 
+Assets/ArtRes/ 
+.vs/ 
+.idea/ 
+.claude/ 
+*.csproj 
+*.sln 
+*.user 
+*.pidb 
+.DS_Store 
+Thumbs.db 
