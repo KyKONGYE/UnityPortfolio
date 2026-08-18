@@ -24,5 +24,7 @@
 ## 说明
 
 - 三个项目均为独立 Unity 工程，可分别打开
-- 每个项目根目录均有 `.gitignore`，仅同步 `Assets / Packages / ProjectSettings` 等核心文件，仅代码(无美术资源)
+- 每个项目根目录均有 `.gitignore`，仅同步 `Assets / Packages / ProjectSettings` 等核心文件,由于网络问题上传美术资源总是失败，所以仅代码(无美术资源)
 - 部分项目使用了第三方插件（NGUI、Spine 等），仅供学习演示
+- 演示视屏见夸克网盘：我用夸克网盘分享了「Unity项目演示」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
+链接：https://pan.quark.cn/s/a36370843688
